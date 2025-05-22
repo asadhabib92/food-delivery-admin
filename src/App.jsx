@@ -9,7 +9,7 @@ import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 const App = () => {
-  const url = "http://localhost:4000";
+  const url = "mongodb+srv://habibasad473:JJDGNgCHBnZUD8vE@cluster0.ert3esp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
   return (
     <div>
       <ToastContainer />
